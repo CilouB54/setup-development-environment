@@ -1,7 +1,9 @@
 p,
-title
+title,
+h2,
+li
 {
-    color: black;
+    color: #F9F8FF;
 }
 .ma-classe {
     color: #A5B4FC;
@@ -36,18 +38,17 @@ h1 {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    text-decoration: none;
+    color: #242424;
     font-size: 1em;
-    background-color: white;
-    
-  }
+    background-color : white;
+    }
       
-  body {
+  
+    body {
    background-color: #1F2039;
   }
 
 
-  a {
-   color : #242424
-   text-decoration: none;
+  a{
+   color : black
   }
