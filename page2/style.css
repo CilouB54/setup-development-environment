@@ -52,3 +52,9 @@ h1 {
   a{
    color : black
   }
+
+.ma-classe2 {
+    background-color: linear-gradient( #8E86B5, #ACAEED);
+    font-family: "Manrope",serif;
+    color: white ; 
+ }
