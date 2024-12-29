@@ -1,9 +1,53 @@
 p,
-title,
-
+title
 {
     color: black;
-
+}
+.ma-classe {
+    color: #A5B4FC;
 }
 
+h1 {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #A5B4FC;
+  }
+  
+  p {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 1.1em;
+  }
 
+  ul {
+    font-family: "Manrope", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 1em;
+  }
+  
+  div {
+    font-family: "Manrope", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 1em;
+    background-color: white;
+    
+  }
+      
+  body {
+   background-color: #1F2039;
+  }
+
+
+  a {
+   color : #242424
+   text-decoration: none;
+  }
