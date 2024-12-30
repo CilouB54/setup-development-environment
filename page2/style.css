@@ -52,11 +52,24 @@ h1 {
     border-radius: 50px ;
     color: white ;
     display :inline-block ;
+    
  }
+.ma-classe2:hover {
+background:linear-gradient (#696484,#8788BA);
+text-decoration: none;
+}
+
 
  .element{
     border-bottom: 1px solid #8E86B5; 
     border-right: 1px solid #8E86B5;
-    display :inline-block
+    display :inline-block;
 }
 
+a:hover{
+    text-decoration:underline;
+}
+
+a{
+    text-decoration: none;
+}
