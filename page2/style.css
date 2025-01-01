@@ -38,7 +38,6 @@ h1 {
     font-family: "Manrope", serif;
     font-optical-sizing: auto;
     color: #242424;
-    font-size: 1em;
     background-color : white;
     }
       
@@ -85,15 +84,15 @@ footer{
 section{
     padding: 80px;
     
-    
 }
 
 .carre{
-    padding: 50px
-    border-bottom :1px solid #8E86B5; 
+    padding: 50px;
+    border-bottom: 1px solid #8E86B5;
     border-right:1px solid #8E86B5;
     border-left:0px;
     border-top : 0px;
+    background-color : #1F2039;
 }
 
 main{
@@ -101,3 +100,28 @@ main{
     margin: auto;
 }
 
+.contener{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.conteneur2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.accueilh1 {
+    color: #242424;
+    text-align: left;
+    margin-bottom: 80px;
+  }
+  
+  .photorl {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
